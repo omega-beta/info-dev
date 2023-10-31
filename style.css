@@ -1,0 +1,36 @@
+.mainText {
+  width: 64%;
+  margin-left: 18%;
+  box-shadow: 2px 2px 5px 2px;
+  padding: 15px;
+}
+.header {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.bodyDesign {
+  box-shadow: 1px 1px 2px 1px;
+  padding: 10px;
+}
+.maintain {
+  background: rgba(0, 0, 0, 1);
+  color: (255, 255, 255, 1);
+  border-radius: 17.5px;
+}
+h1 {
+  font-size: 60pt;
+}
+h2 {
+  font-size: 27pt;
+}
+h3 {
+  font-size: 20pt;
+}
+a {
+  font-size: 11pt;
+  text-decoration: none;
+}
+p {
+  font-size: 11pt;
+}
