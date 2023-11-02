@@ -5,7 +5,7 @@
   padding: 15px;
   background: url("https://upload.wikimedia.org/wikipedia/commons/1/17/Greenland_scoresby-sydkapp2_hg.jpg");
   /* This image has been licensed under Creative Commons CC-BY-SA-2.5 (https://creativecommons.org/licenses/by-sa/2.5/deed.en) */
-  margin-top: 50px;
+  margin-top: 45px;
 }
 .header {
   background: rgba(0, 0, 0, 0.5);
@@ -59,4 +59,5 @@ button {
 button:hover {
   background: rgba(200, 200, 200, 1);
   color: rgba(0, 0, 0, 1);
+  cursor: pointer;
 }
