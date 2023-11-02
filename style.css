@@ -46,13 +46,15 @@ p {
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 1);
+  margin-bottom: 55px;
 }
 button {
   font-size: 15pt;
   font-family: serif;
   background: rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 1);
-  padding: 10px;
+  padding: 15px;
+  border: none;
 }
 button:hover {
   background: rgba(200, 200, 200, 1);
