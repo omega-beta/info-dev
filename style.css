@@ -3,6 +3,8 @@
   margin-left: 18%;
   box-shadow: 2px 2px 5px 2px;
   padding: 15px;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/1/17/Greenland_scoresby-sydkapp2_hg.jpg");
+  /* This image has been licensed under Creative Commons CC-BY-SA-2.5 (https://creativecommons.org/licenses/by-sa/2.5/deed.en) */
 }
 .header {
   background: rgba(0, 0, 0, 0.5);
