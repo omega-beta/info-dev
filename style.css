@@ -40,3 +40,21 @@ a {
 p {
   font-size: 11pt;
 }
+.navBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rbga(0, 0, 0, 1);
+}
+button {
+  font-size: 15pt;
+  font-family: serif;
+  background: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
+  padding: 10px;
+}
+button:hover {
+  background: rgba(200, 200, 200, 1);
+  color: rgba(0, 0, 0, 1);
+}
